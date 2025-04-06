@@ -14,6 +14,7 @@ def gamma_correction(image, gamma):
     width, height = image.size
     finalImage = Image.new("RGB", (width, height))
 
+    # Função de correção de gama np.power
     for x in range(width):
         for y in range(height):
             r, g, b = image.getpixel((x, y))
@@ -25,7 +26,7 @@ def gamma_correction(image, gamma):
     return finalImage
 
 #   image = cv2.imread("./01.jpg")
-image = Image.open("./01.jpg").convert("RGB")
+image = Image.open("../image.jpg").convert("RGB")
 
 gamma = 2.5
 corrected_image = gamma_correction(image, gamma)
