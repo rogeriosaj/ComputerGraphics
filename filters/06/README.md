@@ -1,11 +1,5 @@
 # Filtros Morfológicos
 
-# Explicação do Algoritmo de Fechamento Morfológico com Dilatação e Erosão
-
-Este documento explica de forma simples e detalhada o funcionamento de um algoritmo de **fechamento morfológico** em imagens binárias (preto e branco), utilizando duas operações fundamentais do processamento morfológico: **dilatação** e **erosão**. Esse tipo de operação é muito útil para **preencher pequenos buracos** e **conectar regiões brancas separadas por pequenos espaços**.
-
----
-
 ## O que o Algoritmo Faz?
 
 O objetivo do algoritmo é aplicar uma operação de **fechamento morfológico** em uma imagem binária. O fechamento é feito em duas etapas:

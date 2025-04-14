@@ -1,11 +1,5 @@
 # Detecção de Formas e Texturas
 
-# Explicação do Algoritmo de Filtro de Gabor em Imagens
-
-Este documento explica de forma simples e detalhada o funcionamento de um algoritmo que aplica o **filtro de Gabor** em uma imagem. Esse filtro é muito utilizado em processamento de imagens e visão computacional para detectar **texturas**, **padrões** e **orientações específicas**.
-
----
-
 ## O que é o Filtro de Gabor?
 
 O **filtro de Gabor** combina uma função Gaussiana com uma onda senoidal. Isso permite destacar regiões com frequência espacial específica e orientação definida. Ele é muito útil para detectar **bordas orientadas**, **texturas** e **padrões repetitivos**.

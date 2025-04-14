@@ -1,11 +1,5 @@
 # Transformações Geométricas
 
-# Explicação do Algoritmo de Rotação de Imagem com Remapeamento Inverso
-
-Este documento explica de forma simples e detalhada o funcionamento de um algoritmo de **rotação de imagem** utilizando a técnica de **remapeamento inverso (reverse mapping)**. Essa técnica é mais precisa que métodos simples de rotação e evita problemas comuns como buracos ou distorções.
-
----
-
 ## O que o Algoritmo Faz?
 
 O objetivo do algoritmo é **rotacionar uma imagem** em torno de seu centro, utilizando um ângulo fornecido pelo usuário. Em vez de mover os pixels da imagem original para suas novas posições, o algoritmo faz o inverso: **para cada pixel da imagem de saída, calcula de onde ele veio na imagem original**.

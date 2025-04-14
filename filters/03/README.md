@@ -1,11 +1,5 @@
 # Detecção de bordas
 
-# Explicação do Algoritmo de Detecção de Bordas em Imagens
-
-Este documento explica, de forma simples e detalhada, o funcionamento de um algoritmo de detecção de bordas em imagens. O algoritmo segue uma sequência de etapas clássicas do processamento de imagens, combinando filtros, análise de gradientes e limiares para identificar com precisão as bordas de objetos em uma imagem.
-
----
-
 ## Etapas do Algoritmo
 
 ### 1. Conversão para Escala de Cinza (Grayscale)
