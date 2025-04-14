@@ -1,15 +1,6 @@
 from PIL import Image
-import cv2
 
 def gamma_correction(image, gamma):
-    # Etapa 1-> normalizar a imagem
-    #    nImage = image / 255.0
-
-    # Etapa 2-> aplicar a correçao de gama
-    #    cImage = np.power(nImage, 1 / gamma) # np.power calcula a^b para cada elemento
-
-    # Etapa 3-> conversao para imagem comum, pixel original
-    #    finalImage = np.uint8(cImage * 255.0)
 
     width, height = image.size
     finalImage = Image.new("RGB", (width, height))
@@ -25,15 +16,10 @@ def gamma_correction(image, gamma):
 
     return finalImage
 
-#   image = cv2.imread("./01.jpg")
 image = Image.open("../image.jpg").convert("RGB")
 
 gamma = 2.5
-corrected_image = gamma_correction(image, gamma)
-# cv2.imshow("Original Image", image)
-# cv2.imshow("Gamma Corrected Image", corrected_image)
-# cv2.waitKey(0)
-# cv2.destroyAllWindows()
+final_image = gamma_correction(image, gamma)
 
 image.show()
-corrected_image.show()
+final_image.show()
