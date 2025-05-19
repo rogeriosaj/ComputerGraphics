@@ -1,0 +1,6 @@
+SOURCE = 'img_anonimizado'
+ANSWERS = 'answers.csv'
+MARKED_ANSWERS = 'assets/marked_answers'
+COLUMNS = 'assets/columns'
+PROCESSED = 'processed.csv'
+COMPARISON = 'comparison.txt'

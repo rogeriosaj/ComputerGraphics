@@ -1,0 +1,1496 @@
+ID: 1
+Taxa de acerto: 100.00%
+
+ID: 2
+Taxa de acerto: 100.00%
+
+ID: 3
+Taxa de acerto: 100.00%
+
+ID: 4
+Taxa de acerto: 100.00%
+
+ID: 5
+Taxa de acerto: 100.00%
+
+ID: 6
+Taxa de acerto: 100.00%
+
+ID: 7
+Taxa de acerto: 100.00%
+
+ID: 8
+Taxa de acerto: 100.00%
+
+ID: 9
+Taxa de acerto: 100.00%
+
+ID: 10
+Taxa de acerto: 100.00%
+
+ID: 11
+Taxa de acerto: 100.00%
+
+ID: 12
+Taxa de acerto: 100.00%
+
+ID: 13
+Taxa de acerto: 100.00%
+
+ID: 14
+Taxa de acerto: 100.00%
+
+ID: 15
+Taxa de acerto: 100.00%
+
+ID: 16
+Taxa de acerto: 100.00%
+
+ID: 17
+Taxa de acerto: 100.00%
+
+ID: 18
+Taxa de acerto: 100.00%
+
+ID: 19
+Taxa de acerto: 100.00%
+
+ID: 20
+Taxa de acerto: 100.00%
+
+ID: 21
+Taxa de acerto: 100.00%
+
+ID: 22
+Taxa de acerto: 100.00%
+
+ID: 23
+Taxa de acerto: 100.00%
+
+ID: 24
+Taxa de acerto: 100.00%
+
+ID: 25
+Taxa de acerto: 100.00%
+
+ID: 26
+Taxa de acerto: 100.00%
+
+ID: 27
+Taxa de acerto: 100.00%
+
+ID: 28
+Taxa de acerto: 100.00%
+
+ID: 29
+Taxa de acerto: 100.00%
+
+ID: 30
+Taxa de acerto: 100.00%
+
+ID: 31
+Taxa de acerto: 100.00%
+
+ID: 32
+Taxa de acerto: 100.00%
+
+ID: 33
+Taxa de acerto: 100.00%
+
+ID: 34
+Taxa de acerto: 100.00%
+
+ID: 35
+Taxa de acerto: 100.00%
+
+ID: 36
+Taxa de acerto: 100.00%
+
+ID: 37
+Taxa de acerto: 100.00%
+
+ID: 38
+Taxa de acerto: 100.00%
+
+ID: 39
+Taxa de acerto: 100.00%
+
+ID: 40
+Taxa de acerto: 100.00%
+
+ID: 41
+Taxa de acerto: 100.00%
+
+ID: 42
+Taxa de acerto: 100.00%
+
+ID: 43
+Taxa de acerto: 100.00%
+
+ID: 44
+Taxa de acerto: 100.00%
+
+ID: 45
+Taxa de acerto: 100.00%
+
+ID: 46
+Taxa de acerto: 100.00%
+
+ID: 47
+Taxa de acerto: 100.00%
+
+ID: 48
+Taxa de acerto: 100.00%
+
+ID: 49
+Taxa de acerto: 100.00%
+
+ID: 50
+Taxa de acerto: 100.00%
+
+ID: 51
+Taxa de acerto: 100.00%
+
+ID: 52
+Taxa de acerto: 100.00%
+
+ID: 53
+Taxa de acerto: 100.00%
+
+ID: 54
+Taxa de acerto: 100.00%
+
+ID: 55
+Taxa de acerto: 100.00%
+
+ID: 56
+Taxa de acerto: 100.00%
+
+ID: 57
+Taxa de acerto: 100.00%
+
+ID: 58
+Taxa de acerto: 100.00%
+
+ID: 59
+Taxa de acerto: 100.00%
+
+ID: 60
+Taxa de acerto: 100.00%
+
+ID: 61
+Taxa de acerto: 100.00%
+
+ID: 62
+Taxa de acerto: 100.00%
+
+ID: 63
+Taxa de acerto: 100.00%
+
+ID: 64
+Taxa de acerto: 100.00%
+
+ID: 65
+Taxa de acerto: 100.00%
+
+ID: 66
+Taxa de acerto: 100.00%
+
+ID: 67
+Taxa de acerto: 100.00%
+
+ID: 68
+Taxa de acerto: 100.00%
+
+ID: 69
+Taxa de acerto: 100.00%
+
+ID: 70
+Taxa de acerto: 100.00%
+
+ID: 71
+Taxa de acerto: 100.00%
+
+ID: 72
+Taxa de acerto: 100.00%
+
+ID: 73
+Taxa de acerto: 100.00%
+
+ID: 74
+Taxa de acerto: 100.00%
+
+ID: 75
+Taxa de acerto: 100.00%
+
+ID: 76
+Taxa de acerto: 100.00%
+
+ID: 77
+Taxa de acerto: 100.00%
+
+ID: 78
+Taxa de acerto: 100.00%
+
+ID: 79
+Taxa de acerto: 100.00%
+
+ID: 80
+Taxa de acerto: 100.00%
+
+ID: 81
+Taxa de acerto: 100.00%
+
+ID: 82
+Taxa de acerto: 100.00%
+
+ID: 83
+Taxa de acerto: 100.00%
+
+ID: 84
+Taxa de acerto: 100.00%
+
+ID: 85
+Taxa de acerto: 100.00%
+
+ID: 86
+Taxa de acerto: 100.00%
+
+ID: 87
+Taxa de acerto: 100.00%
+
+ID: 88
+Taxa de acerto: 100.00%
+
+ID: 89
+Taxa de acerto: 100.00%
+
+ID: 90
+Taxa de acerto: 100.00%
+
+ID: 91
+Taxa de acerto: 100.00%
+
+ID: 92
+Taxa de acerto: 100.00%
+
+ID: 93
+Taxa de acerto: 100.00%
+
+ID: 94
+Taxa de acerto: 100.00%
+
+ID: 95
+Taxa de acerto: 100.00%
+
+ID: 96
+Taxa de acerto: 100.00%
+
+ID: 97
+Taxa de acerto: 100.00%
+
+ID: 98
+Taxa de acerto: 100.00%
+
+ID: 99
+Taxa de acerto: 100.00%
+
+ID: 100
+Taxa de acerto: 100.00%
+
+ID: 101
+Taxa de acerto: 100.00%
+
+ID: 102
+Taxa de acerto: 100.00%
+
+ID: 103
+Taxa de acerto: 100.00%
+
+ID: 104
+Taxa de acerto: 100.00%
+
+ID: 105
+Taxa de acerto: 100.00%
+
+ID: 106
+Taxa de acerto: 100.00%
+
+ID: 107
+Taxa de acerto: 100.00%
+
+ID: 108
+Taxa de acerto: 100.00%
+
+ID: 109
+Taxa de acerto: 100.00%
+
+ID: 110
+Taxa de acerto: 100.00%
+
+ID: 111
+Taxa de acerto: 100.00%
+
+ID: 112
+Taxa de acerto: 100.00%
+
+ID: 113
+Taxa de acerto: 100.00%
+
+ID: 114
+Taxa de acerto: 100.00%
+
+ID: 115
+Taxa de acerto: 100.00%
+
+ID: 116
+Taxa de acerto: 100.00%
+
+ID: 117
+Taxa de acerto: 100.00%
+
+ID: 118
+Taxa de acerto: 100.00%
+
+ID: 119
+Taxa de acerto: 100.00%
+
+ID: 120
+Taxa de acerto: 100.00%
+
+ID: 121
+Taxa de acerto: 100.00%
+
+ID: 122
+Taxa de acerto: 100.00%
+
+ID: 123
+Taxa de acerto: 100.00%
+
+ID: 124
+Taxa de acerto: 100.00%
+
+ID: 125
+Taxa de acerto: 100.00%
+
+ID: 126
+Taxa de acerto: 100.00%
+
+ID: 127
+Taxa de acerto: 100.00%
+
+ID: 128
+Taxa de acerto: 100.00%
+
+ID: 129
+Taxa de acerto: 100.00%
+
+ID: 130
+Taxa de acerto: 100.00%
+
+ID: 131
+Taxa de acerto: 100.00%
+
+ID: 132
+Taxa de acerto: 100.00%
+
+ID: 133
+Taxa de acerto: 100.00%
+
+ID: 134
+Taxa de acerto: 100.00%
+
+ID: 135
+Taxa de acerto: 100.00%
+
+ID: 136
+Taxa de acerto: 100.00%
+
+ID: 137
+Taxa de acerto: 100.00%
+
+ID: 138
+Taxa de acerto: 100.00%
+
+ID: 139
+Taxa de acerto: 100.00%
+
+ID: 140
+Taxa de acerto: 100.00%
+
+ID: 141
+Taxa de acerto: 100.00%
+
+ID: 142
+Taxa de acerto: 100.00%
+
+ID: 143
+Taxa de acerto: 100.00%
+
+ID: 144
+Taxa de acerto: 100.00%
+
+ID: 145
+Taxa de acerto: 100.00%
+
+ID: 146
+Taxa de acerto: 100.00%
+
+ID: 147
+Taxa de acerto: 100.00%
+
+ID: 148
+Taxa de acerto: 100.00%
+
+ID: 149
+Taxa de acerto: 100.00%
+
+ID: 150
+Taxa de acerto: 100.00%
+
+ID: 151
+Taxa de acerto: 100.00%
+
+ID: 152
+Taxa de acerto: 100.00%
+
+ID: 153
+Taxa de acerto: 100.00%
+
+ID: 154
+Taxa de acerto: 100.00%
+
+ID: 155
+Taxa de acerto: 100.00%
+
+ID: 156
+Taxa de acerto: 100.00%
+
+ID: 157
+Taxa de acerto: 100.00%
+
+ID: 158
+Taxa de acerto: 100.00%
+
+ID: 159
+Taxa de acerto: 100.00%
+
+ID: 160
+Taxa de acerto: 100.00%
+
+ID: 161
+Taxa de acerto: 100.00%
+
+ID: 162
+Taxa de acerto: 100.00%
+
+ID: 163
+Taxa de acerto: 100.00%
+
+ID: 164
+Taxa de acerto: 100.00%
+
+ID: 165
+Taxa de acerto: 100.00%
+
+ID: 166
+Taxa de acerto: 100.00%
+
+ID: 167
+Taxa de acerto: 100.00%
+
+ID: 168
+Taxa de acerto: 100.00%
+
+ID: 169
+Taxa de acerto: 100.00%
+
+ID: 170
+Taxa de acerto: 100.00%
+
+ID: 171
+Taxa de acerto: 100.00%
+
+ID: 172
+Taxa de acerto: 100.00%
+
+ID: 173
+Taxa de acerto: 100.00%
+
+ID: 174
+Taxa de acerto: 100.00%
+
+ID: 175
+Taxa de acerto: 100.00%
+
+ID: 176
+Taxa de acerto: 100.00%
+
+ID: 177
+Taxa de acerto: 100.00%
+
+ID: 178
+Taxa de acerto: 100.00%
+
+ID: 179
+Taxa de acerto: 100.00%
+
+ID: 180
+Taxa de acerto: 100.00%
+
+ID: 181
+Taxa de acerto: 100.00%
+
+ID: 182
+Taxa de acerto: 100.00%
+
+ID: 183
+Taxa de acerto: 100.00%
+
+ID: 184
+Taxa de acerto: 100.00%
+
+ID: 185
+Taxa de acerto: 100.00%
+
+ID: 186
+Taxa de acerto: 100.00%
+
+ID: 187
+Taxa de acerto: 100.00%
+
+ID: 188
+Taxa de acerto: 100.00%
+
+ID: 189
+Taxa de acerto: 100.00%
+
+ID: 190
+Taxa de acerto: 100.00%
+
+ID: 191
+Taxa de acerto: 100.00%
+
+ID: 192
+Taxa de acerto: 100.00%
+
+ID: 193
+Taxa de acerto: 100.00%
+
+ID: 194
+Taxa de acerto: 100.00%
+
+ID: 195
+Taxa de acerto: 100.00%
+
+ID: 196
+Taxa de acerto: 100.00%
+
+ID: 197
+Taxa de acerto: 100.00%
+
+ID: 198
+Taxa de acerto: 100.00%
+
+ID: 199
+Taxa de acerto: 100.00%
+
+ID: 200
+Taxa de acerto: 100.00%
+
+ID: 201
+Taxa de acerto: 100.00%
+
+ID: 202
+Taxa de acerto: 100.00%
+
+ID: 203
+Taxa de acerto: 100.00%
+
+ID: 204
+Taxa de acerto: 100.00%
+
+ID: 205
+Taxa de acerto: 100.00%
+
+ID: 206
+Taxa de acerto: 100.00%
+
+ID: 207
+Taxa de acerto: 100.00%
+
+ID: 208
+Taxa de acerto: 100.00%
+
+ID: 209
+Taxa de acerto: 100.00%
+
+ID: 210
+Taxa de acerto: 100.00%
+
+ID: 211
+Taxa de acerto: 100.00%
+
+ID: 212
+Taxa de acerto: 100.00%
+
+ID: 213
+Taxa de acerto: 100.00%
+
+ID: 214
+Taxa de acerto: 100.00%
+
+ID: 215
+Taxa de acerto: 100.00%
+
+ID: 216
+Taxa de acerto: 100.00%
+
+ID: 217
+Taxa de acerto: 100.00%
+
+ID: 218
+Taxa de acerto: 100.00%
+
+ID: 219
+Taxa de acerto: 100.00%
+
+ID: 220
+Taxa de acerto: 100.00%
+
+ID: 221
+Taxa de acerto: 100.00%
+
+ID: 222
+Taxa de acerto: 100.00%
+
+ID: 223
+Taxa de acerto: 100.00%
+
+ID: 224
+Taxa de acerto: 100.00%
+
+ID: 225
+Taxa de acerto: 100.00%
+
+ID: 226
+Taxa de acerto: 100.00%
+
+ID: 227
+Taxa de acerto: 100.00%
+
+ID: 228
+Taxa de acerto: 100.00%
+
+ID: 229
+Taxa de acerto: 100.00%
+
+ID: 230
+Taxa de acerto: 100.00%
+
+ID: 231
+Taxa de acerto: 100.00%
+
+ID: 232
+Taxa de acerto: 100.00%
+
+ID: 233
+Taxa de acerto: 100.00%
+
+ID: 234
+Taxa de acerto: 100.00%
+
+ID: 235
+Taxa de acerto: 100.00%
+
+ID: 236
+Taxa de acerto: 100.00%
+
+ID: 237
+Taxa de acerto: 100.00%
+
+ID: 238
+Taxa de acerto: 100.00%
+
+ID: 239
+Taxa de acerto: 100.00%
+
+ID: 240
+Taxa de acerto: 100.00%
+
+ID: 241
+Taxa de acerto: 100.00%
+
+ID: 242
+Taxa de acerto: 100.00%
+
+ID: 243
+Taxa de acerto: 100.00%
+
+ID: 244
+Taxa de acerto: 100.00%
+
+ID: 245
+Taxa de acerto: 100.00%
+
+ID: 246
+Taxa de acerto: 100.00%
+
+ID: 247
+Taxa de acerto: 100.00%
+
+ID: 248
+Taxa de acerto: 100.00%
+
+ID: 249
+Taxa de acerto: 100.00%
+
+ID: 250
+Taxa de acerto: 100.00%
+
+ID: 251
+Taxa de acerto: 100.00%
+
+ID: 252
+Taxa de acerto: 100.00%
+
+ID: 253
+Taxa de acerto: 100.00%
+
+ID: 254
+Taxa de acerto: 100.00%
+
+ID: 255
+Taxa de acerto: 100.00%
+
+ID: 256
+Taxa de acerto: 100.00%
+
+ID: 257
+Taxa de acerto: 100.00%
+
+ID: 258
+Taxa de acerto: 100.00%
+
+ID: 259
+Taxa de acerto: 100.00%
+
+ID: 260
+Taxa de acerto: 100.00%
+
+ID: 261
+Taxa de acerto: 100.00%
+
+ID: 262
+Taxa de acerto: 100.00%
+
+ID: 263
+Taxa de acerto: 100.00%
+
+ID: 264
+Taxa de acerto: 100.00%
+
+ID: 265
+Taxa de acerto: 100.00%
+
+ID: 266
+Taxa de acerto: 100.00%
+
+ID: 267
+Taxa de acerto: 100.00%
+
+ID: 268
+Taxa de acerto: 100.00%
+
+ID: 269
+Taxa de acerto: 100.00%
+
+ID: 270
+Taxa de acerto: 100.00%
+
+ID: 271
+Taxa de acerto: 100.00%
+
+ID: 272
+Taxa de acerto: 100.00%
+
+ID: 273
+Taxa de acerto: 100.00%
+
+ID: 274
+Taxa de acerto: 100.00%
+
+ID: 275
+Taxa de acerto: 100.00%
+
+ID: 276
+Taxa de acerto: 100.00%
+
+ID: 277
+Taxa de acerto: 100.00%
+
+ID: 278
+Taxa de acerto: 100.00%
+
+ID: 279
+Taxa de acerto: 100.00%
+
+ID: 280
+Taxa de acerto: 100.00%
+
+ID: 281
+Taxa de acerto: 100.00%
+
+ID: 282
+Taxa de acerto: 100.00%
+
+ID: 283
+Taxa de acerto: 100.00%
+
+ID: 284
+Taxa de acerto: 100.00%
+
+ID: 285
+Taxa de acerto: 100.00%
+
+ID: 286
+Taxa de acerto: 100.00%
+
+ID: 287
+Taxa de acerto: 100.00%
+
+ID: 288
+Taxa de acerto: 100.00%
+
+ID: 289
+Taxa de acerto: 100.00%
+
+ID: 290
+Taxa de acerto: 100.00%
+
+ID: 291
+Taxa de acerto: 100.00%
+
+ID: 292
+Taxa de acerto: 100.00%
+
+ID: 293
+Taxa de acerto: 100.00%
+
+ID: 294
+Taxa de acerto: 100.00%
+
+ID: 295
+Taxa de acerto: 100.00%
+
+ID: 296
+Taxa de acerto: 100.00%
+
+ID: 297
+Taxa de acerto: 100.00%
+
+ID: 298
+Taxa de acerto: 100.00%
+
+ID: 299
+Taxa de acerto: 100.00%
+
+ID: 300
+Taxa de acerto: 100.00%
+
+ID: 301
+Taxa de acerto: 100.00%
+
+ID: 302
+Taxa de acerto: 100.00%
+
+ID: 303
+Taxa de acerto: 100.00%
+
+ID: 304
+Taxa de acerto: 100.00%
+
+ID: 305
+Taxa de acerto: 100.00%
+
+ID: 306
+Taxa de acerto: 100.00%
+
+ID: 307
+Taxa de acerto: 100.00%
+
+ID: 308
+Taxa de acerto: 100.00%
+
+ID: 309
+Taxa de acerto: 100.00%
+
+ID: 310
+Taxa de acerto: 100.00%
+
+ID: 311
+Taxa de acerto: 100.00%
+
+ID: 312
+Taxa de acerto: 100.00%
+
+ID: 313
+Taxa de acerto: 100.00%
+
+ID: 314
+Taxa de acerto: 100.00%
+
+ID: 315
+Taxa de acerto: 100.00%
+
+ID: 316
+Taxa de acerto: 100.00%
+
+ID: 317
+Taxa de acerto: 100.00%
+
+ID: 318
+Taxa de acerto: 100.00%
+
+ID: 319
+Taxa de acerto: 100.00%
+
+ID: 320
+Taxa de acerto: 100.00%
+
+ID: 321
+Taxa de acerto: 100.00%
+
+ID: 322
+Taxa de acerto: 100.00%
+
+ID: 323
+Taxa de acerto: 100.00%
+
+ID: 324
+Taxa de acerto: 100.00%
+
+ID: 325
+Taxa de acerto: 100.00%
+
+ID: 326
+Taxa de acerto: 100.00%
+
+ID: 327
+Taxa de acerto: 100.00%
+
+ID: 328
+Taxa de acerto: 100.00%
+
+ID: 329
+Taxa de acerto: 100.00%
+
+ID: 330
+Taxa de acerto: 100.00%
+
+ID: 331
+Taxa de acerto: 100.00%
+
+ID: 332
+Taxa de acerto: 100.00%
+
+ID: 333
+Taxa de acerto: 100.00%
+
+ID: 334
+Taxa de acerto: 100.00%
+
+ID: 335
+Taxa de acerto: 100.00%
+
+ID: 336
+Taxa de acerto: 100.00%
+
+ID: 337
+Taxa de acerto: 100.00%
+
+ID: 338
+Taxa de acerto: 100.00%
+
+ID: 339
+Taxa de acerto: 100.00%
+
+ID: 340
+Taxa de acerto: 100.00%
+
+ID: 341
+Taxa de acerto: 100.00%
+
+ID: 342
+Taxa de acerto: 100.00%
+
+ID: 343
+Taxa de acerto: 100.00%
+
+ID: 344
+Taxa de acerto: 100.00%
+
+ID: 345
+Taxa de acerto: 100.00%
+
+ID: 346
+Taxa de acerto: 100.00%
+
+ID: 347
+Taxa de acerto: 100.00%
+
+ID: 348
+Taxa de acerto: 100.00%
+
+ID: 349
+Taxa de acerto: 100.00%
+
+ID: 350
+Taxa de acerto: 100.00%
+
+ID: 351
+Taxa de acerto: 100.00%
+
+ID: 352
+Taxa de acerto: 100.00%
+
+ID: 353
+Taxa de acerto: 100.00%
+
+ID: 354
+Taxa de acerto: 100.00%
+
+ID: 355
+Taxa de acerto: 100.00%
+
+ID: 356
+Taxa de acerto: 100.00%
+
+ID: 357
+Taxa de acerto: 100.00%
+
+ID: 358
+Taxa de acerto: 100.00%
+
+ID: 359
+Taxa de acerto: 100.00%
+
+ID: 360
+Taxa de acerto: 100.00%
+
+ID: 361
+Taxa de acerto: 100.00%
+
+ID: 362
+Taxa de acerto: 100.00%
+
+ID: 363
+Taxa de acerto: 100.00%
+
+ID: 364
+Taxa de acerto: 100.00%
+
+ID: 365
+Taxa de acerto: 100.00%
+
+ID: 366
+Taxa de acerto: 100.00%
+
+ID: 367
+Taxa de acerto: 100.00%
+
+ID: 368
+Taxa de acerto: 100.00%
+
+ID: 369
+Taxa de acerto: 100.00%
+
+ID: 370
+Taxa de acerto: 100.00%
+
+ID: 371
+Taxa de acerto: 100.00%
+
+ID: 372
+Taxa de acerto: 100.00%
+
+ID: 373
+Taxa de acerto: 100.00%
+
+ID: 374
+Taxa de acerto: 100.00%
+
+ID: 375
+Taxa de acerto: 100.00%
+
+ID: 376
+Taxa de acerto: 100.00%
+
+ID: 377
+Taxa de acerto: 100.00%
+
+ID: 378
+Taxa de acerto: 100.00%
+
+ID: 379
+Taxa de acerto: 100.00%
+
+ID: 380
+Taxa de acerto: 100.00%
+
+ID: 381
+Taxa de acerto: 100.00%
+
+ID: 382
+Taxa de acerto: 100.00%
+
+ID: 383
+Taxa de acerto: 100.00%
+
+ID: 384
+Taxa de acerto: 100.00%
+
+ID: 385
+Taxa de acerto: 100.00%
+
+ID: 386
+Taxa de acerto: 100.00%
+
+ID: 387
+Taxa de acerto: 100.00%
+
+ID: 388
+Taxa de acerto: 100.00%
+
+ID: 389
+Taxa de acerto: 100.00%
+
+ID: 390
+Taxa de acerto: 100.00%
+
+ID: 391
+Taxa de acerto: 100.00%
+
+ID: 392
+Taxa de acerto: 100.00%
+
+ID: 393
+Taxa de acerto: 100.00%
+
+ID: 394
+Taxa de acerto: 100.00%
+
+ID: 395
+Taxa de acerto: 100.00%
+
+ID: 396
+Taxa de acerto: 100.00%
+
+ID: 397
+Taxa de acerto: 100.00%
+
+ID: 398
+Taxa de acerto: 100.00%
+
+ID: 399
+Taxa de acerto: 100.00%
+
+ID: 400
+Taxa de acerto: 100.00%
+
+ID: 401
+Taxa de acerto: 100.00%
+
+ID: 402
+Taxa de acerto: 100.00%
+
+ID: 403
+Taxa de acerto: 100.00%
+
+ID: 404
+Taxa de acerto: 100.00%
+
+ID: 405
+Taxa de acerto: 100.00%
+
+ID: 406
+Taxa de acerto: 100.00%
+
+ID: 407
+Taxa de acerto: 100.00%
+
+ID: 408
+Taxa de acerto: 100.00%
+
+ID: 409
+Taxa de acerto: 100.00%
+
+ID: 410
+Taxa de acerto: 100.00%
+
+ID: 411
+Taxa de acerto: 100.00%
+
+ID: 412
+Taxa de acerto: 100.00%
+
+ID: 413
+Taxa de acerto: 100.00%
+
+ID: 414
+Taxa de acerto: 100.00%
+
+ID: 415
+Taxa de acerto: 100.00%
+
+ID: 416
+Taxa de acerto: 100.00%
+
+ID: 417
+Taxa de acerto: 100.00%
+
+ID: 418
+Taxa de acerto: 100.00%
+
+ID: 419
+Taxa de acerto: 100.00%
+
+ID: 420
+Taxa de acerto: 100.00%
+
+ID: 421
+Taxa de acerto: 100.00%
+
+ID: 422
+Taxa de acerto: 100.00%
+
+ID: 423
+Taxa de acerto: 100.00%
+
+ID: 424
+Taxa de acerto: 100.00%
+
+ID: 425
+Taxa de acerto: 100.00%
+
+ID: 426
+Taxa de acerto: 100.00%
+
+ID: 427
+Taxa de acerto: 100.00%
+
+ID: 428
+Taxa de acerto: 100.00%
+
+ID: 429
+Taxa de acerto: 100.00%
+
+ID: 430
+Taxa de acerto: 100.00%
+
+ID: 431
+Taxa de acerto: 100.00%
+
+ID: 432
+Taxa de acerto: 100.00%
+
+ID: 433
+Taxa de acerto: 100.00%
+
+ID: 434
+Taxa de acerto: 100.00%
+
+ID: 435
+Taxa de acerto: 100.00%
+
+ID: 436
+Taxa de acerto: 100.00%
+
+ID: 437
+Taxa de acerto: 100.00%
+
+ID: 438
+Taxa de acerto: 100.00%
+
+ID: 439
+Taxa de acerto: 100.00%
+
+ID: 440
+Taxa de acerto: 100.00%
+
+ID: 441
+Taxa de acerto: 100.00%
+
+ID: 442
+Taxa de acerto: 100.00%
+
+ID: 443
+Taxa de acerto: 100.00%
+
+ID: 444
+Taxa de acerto: 100.00%
+
+ID: 445
+Taxa de acerto: 100.00%
+
+ID: 446
+Taxa de acerto: 100.00%
+
+ID: 447
+Taxa de acerto: 100.00%
+
+ID: 448
+Taxa de acerto: 100.00%
+
+ID: 449
+Taxa de acerto: 100.00%
+
+ID: 450
+Taxa de acerto: 100.00%
+
+ID: 451
+Taxa de acerto: 100.00%
+
+ID: 452
+Taxa de acerto: 100.00%
+
+ID: 453
+Taxa de acerto: 100.00%
+
+ID: 454
+Taxa de acerto: 100.00%
+
+ID: 455
+Taxa de acerto: 100.00%
+
+ID: 456
+Taxa de acerto: 100.00%
+
+ID: 457
+Taxa de acerto: 100.00%
+
+ID: 458
+Taxa de acerto: 100.00%
+
+ID: 459
+Taxa de acerto: 100.00%
+
+ID: 460
+Taxa de acerto: 100.00%
+
+ID: 461
+Taxa de acerto: 100.00%
+
+ID: 462
+Taxa de acerto: 100.00%
+
+ID: 463
+Taxa de acerto: 100.00%
+
+ID: 464
+Taxa de acerto: 100.00%
+
+ID: 465
+Taxa de acerto: 100.00%
+
+ID: 466
+Taxa de acerto: 100.00%
+
+ID: 467
+Taxa de acerto: 100.00%
+
+ID: 468
+Taxa de acerto: 100.00%
+
+ID: 469
+Taxa de acerto: 100.00%
+
+ID: 470
+Taxa de acerto: 100.00%
+
+ID: 471
+Taxa de acerto: 100.00%
+
+ID: 472
+Taxa de acerto: 100.00%
+
+ID: 473
+Taxa de acerto: 100.00%
+
+ID: 474
+Taxa de acerto: 100.00%
+
+ID: 475
+Taxa de acerto: 100.00%
+
+ID: 476
+Taxa de acerto: 100.00%
+
+ID: 477
+Taxa de acerto: 100.00%
+
+ID: 478
+Taxa de acerto: 100.00%
+
+ID: 479
+Taxa de acerto: 100.00%
+
+ID: 480
+Taxa de acerto: 100.00%
+
+ID: 481
+Taxa de acerto: 100.00%
+
+ID: 482
+Taxa de acerto: 100.00%
+
+ID: 483
+Taxa de acerto: 100.00%
+
+ID: 484
+Taxa de acerto: 100.00%
+
+ID: 485
+Taxa de acerto: 100.00%
+
+ID: 486
+Taxa de acerto: 100.00%
+
+ID: 487
+Taxa de acerto: 100.00%
+
+ID: 488
+Taxa de acerto: 100.00%
+
+ID: 489
+Taxa de acerto: 100.00%
+
+ID: 490
+Taxa de acerto: 100.00%
+
+ID: 491
+Taxa de acerto: 100.00%
+
+ID: 492
+Taxa de acerto: 100.00%
+
+ID: 493
+Taxa de acerto: 100.00%
+
+ID: 494
+Taxa de acerto: 100.00%
+
+ID: 495
+Taxa de acerto: 100.00%
+
+ID: 496
+Taxa de acerto: 100.00%
+
+ID: 497
+Taxa de acerto: 100.00%
+
+ID: 498
+Taxa de acerto: 100.00%
+
+MÉDIA DE ACERTOS
+100.00%
